@@ -1,1 +1,1 @@
-This is a simple javascript that converts pounds to grammes, kilogrammes, ounce
+This is a simple web app that converts pounds to grammes, kilogrammes, ounce
